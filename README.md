@@ -85,7 +85,7 @@ python your_file_name.py
 
 ## 👩‍💻 Author
 
-Your Name
+GURSHEEN KAUR
 
 ---
 
